@@ -1,2 +1,2 @@
 # top-mentor
-data sciecne projects
+data science projects
